@@ -85,3 +85,5 @@ gcloud run deploy mi-api \
 | Método | Ruta           | Descripción                  |
 |--------|----------------|------------------------------|
 | GET    | `/`            | Mensaje de bienvenida        |
+
+En resumen: Es una plantilla o proyecto base ideal para quien quiera aprender a desplegar APIs Python en la nube de Google con buenas prácticas de automatización (CI/CD), contenedores (Docker) y serverless (Cloud Run). Fue creado por el usuario alexanderlope y está escrito principalmente en Python (64%) y Dockerfile (36%).
